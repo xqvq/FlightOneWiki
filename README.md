@@ -97,7 +97,7 @@ Version 10.1.0.4984 Alpha5 | FIX/ADD | * Adds support for Ghost Protocol </br> *
     - [Skitzo](https://github.com/fl1wiki-mrteel/FlightOneWiki/tree/main/Tunes/README.md#Skitzo)
     - [JohnnyFPV](https://github.com/fl1wiki-mrteel/FlightOneWiki/tree/main/Tunes/README.md#JohnnyFPV)
     - [WindowWasher](https://github.com/fl1wiki-mrteel/FlightOneWiki/tree/main/Tunes/README.md#WindowWasher)
-    - Im missing someone...?
+    - [BlackBirdFPV](https://github.com/fl1wiki-mrteel/FlightOneWiki/tree/main/Tunes/README.md#WindowWasher)
 
 # Recommended gear
 
@@ -131,6 +131,8 @@ Version 10.1.0.4984 Alpha5 | FIX/ADD | * Adds support for Ghost Protocol </br> *
         - 30x30 XRotor Micro 60A Blheli_32
     - Holybro 
         - Tekko32
+    - Tmotor
+        - F55a Pro II
 - Motor
     - T-Motor
         - Blackbird
@@ -148,6 +150,7 @@ Version 10.1.0.4984 Alpha5 | FIX/ADD | * Adds support for Ghost Protocol </br> *
         - Monster Pro 1.8" (Micro)
     - Runcam
         - Racer Nano 2 (Nano)
+        - swift 2 (Mini)
 - VTX
     - TBS
         - Unify Pro HV
@@ -195,6 +198,6 @@ Version 10.1.0.4984 Alpha5 | FIX/ADD | * Adds support for Ghost Protocol </br> *
 - [BlackBird](https://www.youtube.com/channel/UCyXHYPT1RrzU6_skZaPchCg)
 - [Johnny FPV](https://www.youtube.com/channel/UC7O8KgJdsE_e9op3vG-p2dg)
 - [Skitzo](https://www.youtube.com/channel/UCTG9Xsuc5-0HV9UcaTeX1PQ)
-- ...feels like we are missing some... :P
+- [BlackBirdFPV](https://www.youtube.com/channel/UCyXHYPT1RrzU6_skZaPchCg)
 
 
